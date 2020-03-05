@@ -5,7 +5,7 @@ This repository contains a list of Front-End web designs that is created through
 ![alt text](https://github.com/codingninja008/HackTheBox-Write-Ups/blob/master/images/web.jpg) 
 
 
-The list below shows the name, description of the website, type of technologies used, programming language used, link to source code files and a demo.
+The list below shows the name, description of the website, type of technologies used, programming language used, link to source code files.
 
 List of Articles
 
